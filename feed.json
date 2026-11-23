@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 1,
+  "revision": 2,
   "series": [
     {
       "id": "bailey",
@@ -39,6 +39,19 @@
           "caption": "After 48 hours, we put them on the cartons.",
           "alt": "At a laundromat, a worried man holds a loose sock. An employee points to a milk carton with an image of its missing mate.",
           "image": "comics/756e243b14b6aea0f67ecf9a5d07b5769d1a78418ffdb3051f8a6a38fe822616.webp"
+        }
+      ]
+    },
+    {
+      "id": "dudesplaining",
+      "title": "Dudesplaining",
+      "issues": [
+        {
+          "date": "2026-11-23",
+          "title": "Hard to Find",
+          "caption": "I’m organizing a hide-and-seek tournament. Good players are hard to find.",
+          "alt": "At a park table, a bearded man with a clipboard tells a joke to a bored man in a cap. Two shoes poke out from behind a large tree.",
+          "image": "comics/5525659a71495f39556140b145208f328ca2893c8febd3376454414b24f5f95c.webp"
         }
       ]
     }
