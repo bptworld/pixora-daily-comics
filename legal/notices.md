@@ -2,7 +2,7 @@
 
 ## Publication
 
-Pixora Daily Comics is published by PixoraHQ. The collection includes Adventures of Bailey the Beagle, Almost Normal-ish and Dudesplaining.
+Pixora Daily Comics is published by PixoraHQ. The collection includes Adventures of Beagle Bailey, Almost Normal-ish and Dudesplaining.
 
 ## Content notice
 
