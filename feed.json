@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 2,
+  "revision": 3,
   "series": [
     {
       "id": "bailey",
@@ -52,6 +52,13 @@
           "caption": "I’m organizing a hide-and-seek tournament. Good players are hard to find.",
           "alt": "At a park table, a bearded man with a clipboard tells a joke to a bored man in a cap. Two shoes poke out from behind a large tree.",
           "image": "comics/5525659a71495f39556140b145208f328ca2893c8febd3376454414b24f5f95c.webp"
+        },
+        {
+          "date": "2026-11-22",
+          "title": "Time Flies",
+          "caption": "I threw my watch out the window. I wanted to see time fly.",
+          "alt": "At a diner counter, a bearded man holds up a giant blue watch while his unimpressed friend sets down a cup of coffee.",
+          "image": "comics/9269e8b50695cf941fcb29dd80be49dc437fd694075a396a297095fa176bef7a.webp"
         }
       ]
     }
