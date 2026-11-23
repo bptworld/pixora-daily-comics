@@ -14,9 +14,15 @@ The Android app requests public comic listings and artwork from GitHub over HTTP
 
 The Android app remembers your selected series and saves the latest downloaded listing and cached artwork on your device. These files help the app load faster and show saved issues offline. You can remove them by clearing the app's storage in Android settings or uninstalling the app. The preview includes its starter comics in the HTML file.
 
-## Accounts, analytics and permissions
+## Accounts and permissions
 
-Daily Comics has no accounts, advertising, analytics or tracking SDKs. The Android app uses internet access to load comics. It does not request access to your location, contacts, camera, microphone or photos. PixoraHQ does not receive individual comic-reading histories through the app.
+Daily Comics has no account system or separate audience analytics SDK. The Android app uses internet access to load comics and banner ads. It does not request access to your location, contacts, camera, microphone or photos. PixoraHQ does not receive individual comic-reading histories through the app.
+
+## Advertising and privacy choices
+
+The Android app uses Google AdMob to serve banners and Google User Messaging Platform to handle applicable privacy choices. The browser preview does not serve ads. Google may process IP addresses, ad and app interactions, diagnostics, and available device or account identifiers for ad delivery, measurement, analytics and fraud prevention. IP addresses may also be used to estimate general location. The Android app does not request access to the Android advertising ID. It requests age-restricted advertising treatment because it does not ask readers for their age.
+
+The app checks applicable privacy requirements before requesting ads. If a Google privacy form is available, you can revisit it under About & legal, then Ad privacy options. Google describes its handling and controls here: https://policies.google.com/technologies/partner-sites
 
 ## Support and privacy requests
 
