@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "revision": 1,
+  "series": [
+    {
+      "id": "bailey",
+      "title": "Adventures of Bailey the Beagle",
+      "issues": [
+        {
+          "date": "2026-11-23",
+          "title": "The Squeaker",
+          "caption": "I was looking for the squeaker.",
+          "alt": "Bailey sits beside a torn couch cushion with stuffing on his nose. His owner holds the television remote.",
+          "image": "comics/c2d506c2f058fafba9ceca40477169714a6fdd9854f53d8924df3e21e396b805.webp"
+        },
+        {
+          "date": "2026-11-22",
+          "title": "A Walk on Wheels",
+          "caption": "I said I wanted to GO for a walk.",
+          "alt": "Bailey rides in a red wagon with his front paws on the edge while his owner pulls it down the sidewalk.",
+          "image": "comics/76a36e854ef3862453667aa98009cadd69749ed8429725187d5de171bed85e64.webp"
+        }
+      ]
+    },
+    {
+      "id": "almost-normal-ish",
+      "title": "Almost Normal-ish",
+      "issues": [
+        {
+          "date": "2026-11-23",
+          "title": "A Small Addition",
+          "caption": "We wanted kids, but the HOA only approved one small addition.",
+          "alt": "A homeowner proudly shows the neighbors a tiny traffic cone beside a larger cone in his driveway.",
+          "image": "comics/dd54a1230168d84cc97586a372314c97f2e79c60238e9a99895e7e8b66baaeb5.webp"
+        },
+        {
+          "date": "2026-11-22",
+          "title": "The Missing Sock",
+          "caption": "After 48 hours, we put them on the cartons.",
+          "alt": "At a laundromat, a worried man holds a loose sock. An employee points to a milk carton with an image of its missing mate.",
+          "image": "comics/756e243b14b6aea0f67ecf9a5d07b5769d1a78418ffdb3051f8a6a38fe822616.webp"
+        }
+      ]
+    }
+  ]
+}
