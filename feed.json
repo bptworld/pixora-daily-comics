@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 6,
+  "revision": 7,
   "series": [
     {
       "id": "bailey",
@@ -39,7 +39,7 @@
           "caption": "Today's special is soup with a chance of more soup.",
           "alt": "A waiter holds a tiny umbrella over a bowl beneath a ceiling drip.",
           "date": "2026-11-24",
-          "image": "comics/4a3ad307fe097617640b5925a77bb8120ae5c43ed3e1f386d94860558dcf9f24.webp",
+          "image": "comics/c2143c12d98e7c5a9deb249f05d23f48ab517ac421bf73e30d25ba7417dec591.webp",
           "branded": true
         },
         {
@@ -47,14 +47,14 @@
           "title": "A Small Addition",
           "caption": "We wanted kids, but the HOA only approved one small addition.",
           "alt": "A homeowner proudly shows the neighbors a tiny traffic cone beside a larger cone in his driveway.",
-          "image": "comics/dd54a1230168d84cc97586a372314c97f2e79c60238e9a99895e7e8b66baaeb5.webp"
+          "image": "comics/95f9f052d68d48f48018e6677c4d27bceb44deb0ec0a7f12ad430d32a981865c.webp"
         },
         {
           "date": "2026-11-22",
           "title": "The Missing Sock",
           "caption": "After 48 hours, we put them on the cartons.",
           "alt": "At a laundromat, a worried man holds a loose sock. An employee points to a milk carton with an image of its missing mate.",
-          "image": "comics/756e243b14b6aea0f67ecf9a5d07b5769d1a78418ffdb3051f8a6a38fe822616.webp"
+          "image": "comics/88a9e3e08ec897fc89b89633088d78f58ab352b628ba7ce84abf0661a73e9995.webp"
         }
       ]
     },
@@ -73,7 +73,7 @@
         {
           "date": "2026-11-23",
           "title": "Hard to Find",
-          "caption": "I’m organizing a hide-and-seek tournament. Good players are hard to find.",
+          "caption": "I\u2019m organizing a hide-and-seek tournament. Good players are hard to find.",
           "alt": "At a park table, an orange-shirted man with a clipboard tells a joke to a bored man in a cap. Two shoes poke out from behind a large tree.",
           "image": "comics/be2fa36f673360759c6d35c82d65ee9026c4d39b54e68bae6323b45359b8a14d.webp",
           "branded": true
