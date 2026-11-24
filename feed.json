@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 5,
+  "revision": 6,
   "series": [
     {
       "id": "bailey",
@@ -67,22 +67,24 @@
           "caption": "This is my step ladder. I never knew my real ladder.",
           "alt": "One friend holds a ladder in a garage while the other watches.",
           "date": "2026-11-24",
-          "image": "comics/94cfbd7154ef4e494a0f057c77d3596499156bad0b1dbabd863e376518929f17.webp",
+          "image": "comics/07a35967aae1df9f617c338a6815c0b6cc0ec49396ad49b4bf2d8010744a2755.webp",
           "branded": true
         },
         {
           "date": "2026-11-23",
           "title": "Hard to Find",
           "caption": "I’m organizing a hide-and-seek tournament. Good players are hard to find.",
-          "alt": "At a park table, a bearded man with a clipboard tells a joke to a bored man in a cap. Two shoes poke out from behind a large tree.",
-          "image": "comics/5525659a71495f39556140b145208f328ca2893c8febd3376454414b24f5f95c.webp"
+          "alt": "At a park table, an orange-shirted man with a clipboard tells a joke to a bored man in a cap. Two shoes poke out from behind a large tree.",
+          "image": "comics/be2fa36f673360759c6d35c82d65ee9026c4d39b54e68bae6323b45359b8a14d.webp",
+          "branded": true
         },
         {
           "date": "2026-11-22",
           "title": "Time Flies",
           "caption": "I threw my watch out the window. I wanted to see time fly.",
-          "alt": "At a diner counter, a bearded man holds up a giant blue watch while his unimpressed friend sets down a cup of coffee.",
-          "image": "comics/9269e8b50695cf941fcb29dd80be49dc437fd694075a396a297095fa176bef7a.webp"
+          "alt": "At a diner counter, an orange-shirted man holds up a giant blue watch while his unimpressed friend sets down a cup of coffee.",
+          "image": "comics/ee5e21a46a01894aeaea140f717fc647460d77022373fffdd7098667112d4124.webp",
+          "branded": true
         }
       ]
     }
