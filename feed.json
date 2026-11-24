@@ -1,11 +1,19 @@
 {
   "schema": 1,
-  "revision": 4,
+  "revision": 5,
   "series": [
     {
       "id": "bailey",
       "title": "Adventures of Beagle Bailey",
       "issues": [
+        {
+          "title": "The Slipcover",
+          "caption": "Technically, I'm on the slipcover.",
+          "alt": "Bailey sits on the covered couch while his owner holds up a warning sign.",
+          "date": "2026-11-24",
+          "image": "comics/8cf6a71b02ee07a7ac90615c23282906c0dc1ab4d9425e1ccfabf20f3884c901.webp",
+          "branded": true
+        },
         {
           "date": "2026-11-23",
           "title": "The Squeaker",
@@ -27,6 +35,14 @@
       "title": "Almost Normal-ish",
       "issues": [
         {
+          "title": "Soup Forecast",
+          "caption": "Today's special is soup with a chance of more soup.",
+          "alt": "A waiter holds a tiny umbrella over a bowl beneath a ceiling drip.",
+          "date": "2026-11-24",
+          "image": "comics/4a3ad307fe097617640b5925a77bb8120ae5c43ed3e1f386d94860558dcf9f24.webp",
+          "branded": true
+        },
+        {
           "date": "2026-11-23",
           "title": "A Small Addition",
           "caption": "We wanted kids, but the HOA only approved one small addition.",
@@ -46,6 +62,14 @@
       "id": "dudesplaining",
       "title": "Dudesplaining",
       "issues": [
+        {
+          "title": "Step Ladder",
+          "caption": "This is my step ladder. I never knew my real ladder.",
+          "alt": "One friend holds a ladder in a garage while the other watches.",
+          "date": "2026-11-24",
+          "image": "comics/94cfbd7154ef4e494a0f057c77d3596499156bad0b1dbabd863e376518929f17.webp",
+          "branded": true
+        },
         {
           "date": "2026-11-23",
           "title": "Hard to Find",
