@@ -1,11 +1,19 @@
 {
   "schema": 1,
-  "revision": 7,
+  "revision": 8,
   "series": [
     {
       "id": "bailey",
       "title": "Adventures of Beagle Bailey",
       "issues": [
+        {
+          "title": "Parcel Inspection",
+          "caption": "Morgan, I'm going to need two forms of squeaky toy.",
+          "alt": "Bailey inspects Morgan's parcel at the garden gate.",
+          "date": "2026-11-25",
+          "image": "comics/defd96b0a938cc96e7fc7da868432c4ae144f7d9aa0df9c479913a1b6021ced0.webp",
+          "branded": true
+        },
         {
           "title": "The Slipcover",
           "caption": "Technically, I'm on the slipcover.",
@@ -35,6 +43,14 @@
       "title": "Almost Normal-ish",
       "issues": [
         {
+          "title": "Leftovers",
+          "caption": "I bought the same dinner so yesterday's leftovers wouldn't feel out of place.",
+          "alt": "A man and woman look into a refrigerator full of identical takeout containers.",
+          "date": "2026-11-25",
+          "image": "comics/d682e7f1aaeeb704ea2b84e69f56ba916c45cc168dda85b25f0e2c175b34d5bc.webp",
+          "branded": true
+        },
+        {
           "title": "Soup Forecast",
           "caption": "Today's special is soup with a chance of more soup.",
           "alt": "A waiter holds a tiny umbrella over a bowl beneath a ceiling drip.",
@@ -63,6 +79,14 @@
       "title": "Dudesplaining",
       "issues": [
         {
+          "title": "Toast of the Town",
+          "caption": "I unplugged the toaster. It said it was burned out.",
+          "alt": "Two friends inspect an unplugged toaster on a table.",
+          "date": "2026-11-25",
+          "image": "comics/2b39c91c4c4e382deebcfd2a0f37fded4febc3402b60f409bdff164b3430afb6.webp",
+          "branded": true
+        },
+        {
           "title": "Step Ladder",
           "caption": "This is my step ladder. I never knew my real ladder.",
           "alt": "One friend holds a ladder in a garage while the other watches.",
@@ -73,7 +97,7 @@
         {
           "date": "2026-11-23",
           "title": "Hard to Find",
-          "caption": "I\u2019m organizing a hide-and-seek tournament. Good players are hard to find.",
+          "caption": "I’m organizing a hide-and-seek tournament. Good players are hard to find.",
           "alt": "At a park table, an orange-shirted man with a clipboard tells a joke to a bored man in a cap. Two shoes poke out from behind a large tree.",
           "image": "comics/be2fa36f673360759c6d35c82d65ee9026c4d39b54e68bae6323b45359b8a14d.webp",
           "branded": true
