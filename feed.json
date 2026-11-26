@@ -1,11 +1,19 @@
 {
   "schema": 1,
-  "revision": 8,
+  "revision": 9,
   "series": [
     {
       "id": "bailey",
       "title": "Adventures of Beagle Bailey",
       "issues": [
+        {
+          "title": "The Counteroffer",
+          "caption": "One now, one for agreeing to wait.",
+          "alt": "Bailey reaches for a treat while his owner holds the jar.",
+          "date": "2026-11-26",
+          "image": "comics/c6641ceb1bc5f207711dbe1e96898b7be992b25a284ed92299215088eb90085f.webp",
+          "branded": true
+        },
         {
           "title": "Parcel Inspection",
           "caption": "Morgan, I'm going to need two forms of squeaky toy.",
@@ -43,6 +51,14 @@
       "title": "Almost Normal-ish",
       "issues": [
         {
+          "title": "Toast Maintenance",
+          "caption": "The toast is open. Just use the other lane.",
+          "alt": "A miniature traffic cone marks a crack in a slice of toast.",
+          "date": "2026-11-26",
+          "image": "comics/521a37cc28d6aa2625cd4c66bfe508aef69a43b648cda468cc2468a9c3f5e4df.webp",
+          "branded": true
+        },
+        {
           "title": "Leftovers",
           "caption": "I bought the same dinner so yesterday's leftovers wouldn't feel out of place.",
           "alt": "A man and woman look into a refrigerator full of identical takeout containers.",
@@ -78,6 +94,14 @@
       "id": "dudesplaining",
       "title": "Dudesplaining",
       "issues": [
+        {
+          "title": "Room for One More",
+          "caption": "I invited a mushroom to the party. He's a fungi.",
+          "alt": "Two friends look down at mushrooms on a trail.",
+          "date": "2026-11-26",
+          "image": "comics/ff86f3db01045024fedebcfd06c93f70a6afa8e48ac099cbd800a9ca93272401.webp",
+          "branded": true
+        },
         {
           "title": "Toast of the Town",
           "caption": "I unplugged the toaster. It said it was burned out.",
