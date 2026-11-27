@@ -1,11 +1,19 @@
 {
   "schema": 1,
-  "revision": 9,
+  "revision": 10,
   "series": [
     {
       "id": "bailey",
       "title": "Adventures of Beagle Bailey",
       "issues": [
+        {
+          "title": "Welcome Mat",
+          "caption": "It says welcome. I brought it with me.",
+          "alt": "Bailey sits on a welcome mat he has carried onto the couch.",
+          "date": "2026-11-27",
+          "image": "comics/48b89cc1df416e2d6fbf44b61a7efb7d64c7b64a58fec0c4111663494d54d526.webp",
+          "branded": true
+        },
         {
           "title": "The Counteroffer",
           "caption": "One now, one for agreeing to wait.",
@@ -51,6 +59,14 @@
       "title": "Almost Normal-ish",
       "issues": [
         {
+          "title": "Going Up",
+          "caption": "The elevator skips the third floor. You have to hike the rest.",
+          "alt": "An elevator opens onto a trail in front of an employee carrying a briefcase.",
+          "date": "2026-11-27",
+          "image": "comics/3c93404aac4bdf6fecf3295f54e171f9899b7432fd081ff89282f7c3cd6c5846.webp",
+          "branded": true
+        },
+        {
           "title": "Toast Maintenance",
           "caption": "The toast is open. Just use the other lane.",
           "alt": "A miniature traffic cone marks a crack in a slice of toast.",
@@ -94,6 +110,14 @@
       "id": "dudesplaining",
       "title": "Dudesplaining",
       "issues": [
+        {
+          "title": "Waist of Time",
+          "caption": "I made a belt out of watches. It was a waist of time.",
+          "alt": "One friend shows the other a belt made from wristwatches.",
+          "date": "2026-11-27",
+          "image": "comics/02164432b6edd4113dabdce417985900192658525fe945469d804aa78aaa6a1d.webp",
+          "branded": true
+        },
         {
           "title": "Room for One More",
           "caption": "I invited a mushroom to the party. He's a fungi.",
