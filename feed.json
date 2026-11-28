@@ -1,11 +1,19 @@
 {
   "schema": 1,
-  "revision": 10,
+  "revision": 11,
   "series": [
     {
       "id": "bailey",
       "title": "Adventures of Beagle Bailey",
       "issues": [
+        {
+          "title": "Express Mail",
+          "caption": "First-class mail gets one bark. Everything else gets the full speech.",
+          "alt": "At the front door, Morgan presents an envelope to Bailey.",
+          "date": "2026-11-28",
+          "image": "comics/848e7fae6fb365064266161fab93cfdb6dd7d6847f282ec42651236c9b821bc0.webp",
+          "branded": true
+        },
         {
           "title": "Welcome Mat",
           "caption": "It says welcome. I brought it with me.",
@@ -59,6 +67,14 @@
       "title": "Almost Normal-ish",
       "issues": [
         {
+          "title": "Permanent Collection",
+          "caption": "We haven't vacuumed that one since it got a grant.",
+          "alt": "A vacuum cleaner approaches a dust bunny protected by museum ropes.",
+          "date": "2026-11-28",
+          "image": "comics/85198d46fa9333cfcaf24b25f68ea9c3023cdbfbf7dbdf29ae0aaf36f1a141f0.webp",
+          "branded": true
+        },
+        {
           "title": "Going Up",
           "caption": "The elevator skips the third floor. You have to hike the rest.",
           "alt": "An elevator opens onto a trail in front of an employee carrying a briefcase.",
@@ -110,6 +126,14 @@
       "id": "dudesplaining",
       "title": "Dudesplaining",
       "issues": [
+        {
+          "title": "Biggest Fan",
+          "caption": "That thing is my biggest fan. It follows me around in circles.",
+          "alt": "The friends look up at a ceiling fan.",
+          "date": "2026-11-28",
+          "image": "comics/8f62c8c05cd56a41f35a37ef840b29a8b3c650748fac70d4ef2de949b0342061.webp",
+          "branded": true
+        },
         {
           "title": "Waist of Time",
           "caption": "I made a belt out of watches. It was a waist of time.",
